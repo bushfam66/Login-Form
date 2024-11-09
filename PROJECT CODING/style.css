@@ -1,0 +1,38 @@
+.Login-Area{
+    width: 800px;
+    height: 900vh;
+    background-color: rgb(30, 30, 56);
+    color: white;
+    margin: auto;
+}
+label{
+    display: block;
+    padding-top: 20px;
+    font-size: larger;
+    font-weight: 300;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ h1, p, label {
+    margin: auto;
+    text-align: center;
+}
+.Submit{
+    color: rgb(28, 28, 46);
+   margin-left: 380px;
+   margin-top: 50px;
+   border-radius: 25px;
+   background-color: white;
+   width: 140px;
+   height: 50px;
+   font-weight: bolder;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: larger;
+}
+input{
+    height: 25px;
+width: 500px;
+font-size: larger;
+}
+.Submit:hover{
+    text-decoration-style: rgb(123, 21,0);
+}
